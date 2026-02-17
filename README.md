@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maruf Emre Karatay
 - 👀 I’m interested in Backend Development and Machine Learning
-- 💼 I have 3+ years of professional experience building enterprise trading systems with Java and Spring Boot
+- 💼 I have 4+ years of professional experience building enterprise trading systems with Java and Spring Boot
 - 🌱 I’m currently learning Go and Next.js
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/karataymarufemre/)
 - 🔭 In my personal projects, I enjoy exploring a variety of technologies beyond Java and Spring Boot
